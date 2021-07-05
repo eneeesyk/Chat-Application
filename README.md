@@ -1,6 +1,6 @@
 # Chat-Application :iphone:
 
-It is a classic chat application that you can chat with your friends or other people in a channel. You can chat in same network or online. This is a school project that we make. We used websocket for the connection. It does keep attributes in mysql database like messages, date, who send the message, first name, last name, nickname etc. We used xampp for the apache and mysql. You have to create a database for keep the messages. We used php, html, SQL.
+It is a classic chat application that you can chat with your friends or other people in a channel. You can chat in same network or online. This is a school project that we made. We used websocket for the connection. It does keep attributes in mysql database like messages, date, who send the message, first name, last name, nickname etc. We used xampp for the apache and mysql. You have to create a database for keep the messages. We used php, html, SQL.
 
 ## How to run websocket
 
